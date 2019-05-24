@@ -1,9 +1,10 @@
 EESchema Schematic File Version 4
+LIBS:Akita-cache
 EELAYER 29 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 6
+Sheet 1 7
 Title ""
 Date ""
 Rev ""
@@ -42,5 +43,11 @@ S 1500 4000 2000 1500
 U 5CC1510F
 F0 "IO - PMOD & Hight Speed Interface" 50
 F1 "IO.sch" 50
+$EndSheet
+$Sheet
+S 7500 4000 2500 1550
+U 5CDC6050
+F0 "FPGA Power" 50
+F1 "FPGA_Power.sch" 50
 $EndSheet
 $EndSCHEMATC

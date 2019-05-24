@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Akita_Pro_Library)(type Legacy)(uri ${KIPRJMOD}/Akita_Pro_Library.lib)(options "")(descr ""))
+  (lib (name ecp5um5g_85_cabga381)(type Legacy)(uri ${KIPRJMOD}/ecp5um5g_85_cabga381.lib)(options "")(descr ""))
+)

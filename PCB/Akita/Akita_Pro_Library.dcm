@@ -1,0 +1,47 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CAP_TEMPLATE_POLAR
+F *
+$ENDCMP
+#
+$CMP CL05A474KQ5NNNC
+F https://www.samsungsem.com/kr/support/product-search/mlcc/__icsFiles/afieldfile/2019/05/10/19-CL05A474KQ5NNNC.pdf
+$ENDCMP
+#
+$CMP CL05B102KB5NNNC
+F https://www.samsungsem.com/kr/support/product-search/mlcc/__icsFiles/afieldfile/2018/07/13/CL05B102KB5NNNC.pdf
+$ENDCMP
+#
+$CMP CL05B103KB5NNNC
+F https://www.samsungsem.com/kr/support/product-search/mlcc/__icsFiles/afieldfile/2018/07/13/CL05B103KB5NNNC.pdf
+$ENDCMP
+#
+$CMP CL05B104KO5NNNC
+F https://www.samsungsem.com/kr/support/product-search/mlcc/__icsFiles/afieldfile/2018/07/18/CL05B104KO5NNNC.pdf
+$ENDCMP
+#
+$CMP CL10A475KP8NNNC
+F https://www.samsungsem.com/kr/support/product-search/mlcc/__icsFiles/afieldfile/2019/05/10/19-CL10A475KP8NNNC.pdf
+$ENDCMP
+#
+$CMP CL21A476MQYNNNE
+F https://www.samsungsem.com/kr/support/product-search/mlcc/__icsFiles/afieldfile/2019/05/07/19-CL21A476MQYNNNE-1_3.pdf
+$ENDCMP
+#
+$CMP MPZ1608S101ATAH0
+F https://product.tdk.com/info/en/catalog/datasheets/beads_commercial_power_mpz1608_en.pdf
+$ENDCMP
+#
+$CMP RC0402FR-0710KL
+F http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf
+$ENDCMP
+#
+$CMP RC0402FR-071KL
+F http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf
+$ENDCMP
+#
+$CMP RC0402FR-074K7L
+F http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf
+$ENDCMP
+#
+#End Doc Library
